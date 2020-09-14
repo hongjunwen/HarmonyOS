@@ -1,0 +1,10 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -21,7 +21,7 @@
+ 
+ `HarmonyOS` achieves modular coupling, which corresponds to flexible deployment of different devices. `HarmonyOS` has three layers of architecture. The first layer is the core, the second layer is the basic services, and the third layer is the program framework. It can be used on a large screen, PC, automobile and other different equipment. It can also be used on mobile phones at any time, but for the time being, Huawei still prefers Android.
+ 
+-The underlying layer of HarmonyOS is composed of  `HarmonyOS microkernel`, `Linux kernel` and [`Lite OS`](https://github.com/Awesome-HarmonyOS/HarmonyOS/tree/master/Huawei_LiteOS) and it will become a complete Hongmeng microkernel architecture in the future.
++The underlying layer of HarmonyOS is composed of  `HarmonyOS microkernel`, `Linux kernel` and [`Lite OS`](https://github.com/Awesome-HarmonyOS/HarmonyOS/tree/master/Huawei_LiteOS) and it will become a complete HarmonyOS microkernel architecture in the future.
+ 
+ # Ⅱ . Development process
+ 
